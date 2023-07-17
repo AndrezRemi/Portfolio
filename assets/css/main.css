@@ -3527,7 +3527,7 @@
 
 	.gallery {
 		width: 100%;
-		margin: 2.5rem 0 2.5rem 0;
+		padding: 40px calc((100% - (255px * 4)) / 2);
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
